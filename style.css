@@ -1,7 +1,7 @@
 body{
   font-family: 'Poppins', sans-serif;
   justify-content: center;
-  display:flex;
+  
   margin:0;
   
   
@@ -32,4 +32,52 @@ body{
   background-color:#ff5959;
   color:white;
   border-radius: 10px;
+}
+.donate-today{
+  text-align: center;
+  font-size: 25px;
+}
+.container{
+  width: 150px;
+  height: 140px;
+  float: left;
+  left:430px;
+  margin:20px;
+  background-color: #fafafa;
+  position: relative;
+  align-items: center;
+  border-radius: 5px;
+}
+.container h1{
+  color:#707070;
+  margin:40px;
+  font-size: 30px;
+  position: absolute;
+  text-align: center;
+  padding-right: 10px;
+}
+#orange{
+  border:2px solid #ff5959;
+}
+
+#orange h1{
+  color:#ff5959;
+}
+.type-box{
+  width: 150px;
+  height:150px;
+  margin-bottom: auto;
+  padding-left: 800px;
+  padding-top: 10px;
+  border: 10px sold grey;
+  position:relative;
+  align-items: center;
+  border-style: none;
+}
+hr{
+  width:600px;
+  color: #fafafa;
+  align-items: center;
+  position: relative;
+  padding-left:100px;
 }
