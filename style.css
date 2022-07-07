@@ -68,7 +68,7 @@ body{
 .taka input{
   font-size: 20px;
   align-items: center;
-  padding-left: 760px;
+  padding-left: 830px;
   border: none;
   outline: none;
 }
@@ -156,6 +156,7 @@ img{
   margin-bottom: 50px;
   margin-top: 50px;
   box-shadow: 10px 10px 10px;
+  border-radius: 8px;
 }
 .photo{
   width:500px;
